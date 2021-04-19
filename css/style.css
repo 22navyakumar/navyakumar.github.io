@@ -1,0 +1,51 @@
+body
+{
+  background-color:#0f0066;
+
+}
+
+
+
+
+.login{
+width: 400px;
+border: 2px solid #0f0066;
+padding: 40px;
+padding-top: 100px;
+padding-bottom: 100px;
+margin: 200px;
+background-color:#caf0f8;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: white;
+  color: #0f0066;
+  font-style:
+}
+
+.button {
+  background-color: #48cae4;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.Remmember{
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.forgot{
+  float: right;
+   font-family: Arial, Helvetica, sans-serif;
+}
